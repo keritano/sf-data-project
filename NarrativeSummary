@@ -1,0 +1,31 @@
+While every neighborhood offers drastically different opportunities
+and qualities of education, many students and families only know the neighborhood
+in which they live. While they might understand where there school matches up against
+the impressions they have of other schools, they will most likely only intimately know 
+the schools they attend or live around. This focused experience makes them experts on
+their own education but also leaves them isolated enough that their analysis of their
+schools isn't entirely tied to where a specific school ranks against other schools.
+
+In our project, we sought to uncover perceptions of schools in San Francisco by analyzing
+Yelp reviews of schools according to their location, sorting them by zipcode and 
+classifying zipcodes by median income.
+
+We checked for missing and malformed values by name and coordinate, finding a few names
+that weren't schools. We attempted to isolate and ignore them in our analysis.
+
+
+2 Findings:
+- Schools are very evenly distributed around the area (geographically)
+- Slight increase in satisfaction in schools in wealthier zipcodes
+
+Future Analysis:
+- Breakdown by distribution of school type 
+- Sentiment analysis on Yelp reviews
+
+Checked for Missing/Malformed values:
+- Checked by name/coordinate
+- Ignored a few anomalies 
+
+Story Idea:
+- Interviewing people on the ground in specific neighborhoods 
+- Topic modeling of Yelp reviews to find common issues
